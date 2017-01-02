@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "phantomjs": "^2.1.7"
+    "phantomjs": "^2.1.7",
+    "webpage": "^0.3.0"
   }
 }
