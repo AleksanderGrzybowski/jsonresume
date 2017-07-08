@@ -1040,6 +1040,7 @@ body {
 
 .card-skills {
     position: relative;
+    padding-top: 0;
 }
 
 .skill-level {
