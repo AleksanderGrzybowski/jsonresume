@@ -1121,3 +1121,7 @@ body {
 
     
 a[href]:after { content : "" }
+
+a {
+    text-decoration: underline;
+}
