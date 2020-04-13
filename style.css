@@ -678,7 +678,7 @@ body {
 }
 
 .contact-details .detail .info {
-    font-size: 0.8em;
+    font-size: 0.7em;
 }
 
 .contact-details .detail .icon,
@@ -716,7 +716,7 @@ body {
 @media (max-width: 992px) and (min-width: 768px) {
     .contact-details .detail {
         float: left;
-        width: 33%;
+        width: 25%;
     }
 }
 
